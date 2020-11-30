@@ -1,0 +1,26 @@
+Original string: I wouldn't mind if you took me in my sleep tonight
+Substring position: 2 
+Changed string: I [would not] mind if you took me in my sleep tonight
+
+Original string: I wouldn't even put up a fight
+Substring position: 2 
+Changed string: I [would not] even put up a fight
+
+Original string: I wouldn't care if you took it all away today
+Substring position: 2 
+Changed string: I [would not] care if you took it all away today
+
+Original string: I'm sure I wouldn't even miss the pain
+Substring position: 11 
+Changed string: I'm sure I [would not] even miss the pain
+
+Original string: Laugh at myself...
+Substring not found.
+
+Original string: String with wouldn't substring.
+Substring position: 12 
+Changed string: String with [would not] substring.
+
+Original string: Laugh at myself...
+Substring not found.
+

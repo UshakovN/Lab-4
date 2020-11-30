@@ -1,0 +1,2 @@
+D:\Прога\Lab 4 (строки)\Main\Debug\Main.exe
+D:\Прога\Lab 4 (строки)\Main\Debug\Main.pdb

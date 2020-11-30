@@ -1,0 +1,3 @@
+Original string: I wouldn't care if you took it all away today
+Substring position: 2 
+Changed string: I [would not] care if you took it all away today
